@@ -1,3 +1,4 @@
+name: Push Code to EC2
 on:
  push:
    branches:
