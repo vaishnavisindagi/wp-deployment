@@ -24,7 +24,7 @@ jobs:
 
       - name: Deploy to server
         run: |
-          ssh -o StrictHostKeyChecking=no root@3.110.100.219 << 'EOF'
+          ssh -o StrictHostKeyChecking=no root@13.127.189.27 << 'EOF'
             cd /var/www/wordpress
             git pull origin main
             sudo systemctl restart nginx
