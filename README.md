@@ -253,3 +253,5 @@ By following these steps, you have successfully set up a LAMP server, deployed W
 
 WordPress Installation URL:
 https://wordpress.hopto.org/wp-admin/install.php
+
+I have added a file named 'LAMP.pdf' with images to the repository.
