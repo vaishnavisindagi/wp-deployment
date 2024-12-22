@@ -18,7 +18,7 @@ This document provides a detailed step-by-step guide to set up a LAMP (Linux, Ap
 Steps to connect:
 - Obtain the private key associated with your EC2 instance. Use the following command to connect to the server:
   ```bash
-  ssh -i "lemp.pem" ubuntu@3.110.100.219
+  ssh -i "lemp.pem" ubuntu@IP
 Once connected, execute the following commands:
 
 ```bash
