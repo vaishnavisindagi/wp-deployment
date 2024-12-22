@@ -249,6 +249,7 @@ jobs:
 ```
 Navigate to Settings > Secrets and Variables > Actions.
 Add the SSH private key under the Secrets section.
+
 By following these steps, you have successfully set up a LAMP server, deployed WordPress, and configured GitHub Actions for automated deployment.
 
 WordPress Installation URL:
